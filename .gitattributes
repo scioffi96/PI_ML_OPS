@@ -1,0 +1,5 @@
+C:/Users/Usuario/Desktop/Henry/PI[[:space:]]1 filter=lfs diff=lfs merge=lfs -text
+C:/Users/Usuario/Desktop/Henry/PI[[:space:]]1/movies_ok.csv filter=lfs diff=lfs merge=lfs -text
+movies_ok.csv filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
+*csv filter=lfs diff=lfs merge=lfs -text
