@@ -23,7 +23,7 @@ Luego, se crearon 6 funciones para los endpoints que se consumirán en la API:
 - productoras: se ingresas la productora, retornando la ganancia total y la cantidad de peliculas que produjeron.
 - retorno: se ingresas la pelicula, retornando la inversion, la ganancia, el retorno y el año en el que se lanzo.
 
-*El notebook donde se realizaron las transformacioens y los endpoints se encuentra en [este link](https://github.com/scioffi96/PI_ML_OPS/blob/main/movies_endpoints.csv).*
+*El notebook donde se realizaron las transformacioens y los endpoints se encuentra en [este link](https://github.com/scioffi96/PI_ML_OPS/blob/main/proyecto1_endpoints.ipynb).*
 
 ## Desarollo y deploy de la API
 
@@ -43,7 +43,7 @@ Luego, para el sistema de recomendación con HashingVectorizer se creó una nuev
 Además, se ordenaron los campos según su *puntuación*, y se limitó el dataset a los primeros 10000 valores, luego, a esos datos ordenados se los volvió a ordenar pero ahora según el *promedio de votos* y se limitó el dataset a los mejores 5000 puntuados.
 De esta forma nos quedamos con las 5000 películas más populares y mejor puntuadas.
 
-*El notebook donde se realizaró el EDA y el sistema de recomendación se encuentra en [este link](https://github.com/scioffi96/PI_ML_OPS/blob/main/movies_recommend.csv).*
+*El notebook donde se realizaró el EDA y el sistema de recomendación se encuentra en [este link](https://github.com/scioffi96/PI_ML_OPS/blob/main/proyecto1_recommend.ipynb).*
 
 Finalmente, se editó el archivo [main.py](https://github.com/scioffi96/PI_ML_OPS/blob/main/main.py) que se utiliza para la API y se hizo un último deploy en Render con la función de recomendació ya activa.
 
