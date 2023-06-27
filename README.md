@@ -3,7 +3,7 @@
 ## Introducción
 Al finalizar el bootcamp de Data Science de Henry, se asignan dos proyectos individuales y un proyecto grupal, con el objetivo de integrar los conocimientos adquiridos en la etapa de bootcamp.
 
-Para el primer proyecto individual, Machine Learning Operations, se creó un modelo de ML que recomeinda peliculas. En [este repositorio](https://github.com/HX-PRomero/PI_ML_OPS) se encuentran las consignas y en [este link](https://github.com/scioffi96/PI_ML_OPS/blob/main/movies_dataset.csv) se encuentra el dataset.
+Para el primer proyecto individual, Machine Learning Operations, se creó un modelo de ML que recomienda peliculas. En [este repositorio](https://github.com/HX-PRomero/PI_ML_OPS) se encuentran las consignas y en [este link](https://github.com/scioffi96/PI_ML_OPS/blob/main/movies_dataset.csv) se encuentra el dataset.
 
 Al final de este archivo se encuentra el link a la API.
 
